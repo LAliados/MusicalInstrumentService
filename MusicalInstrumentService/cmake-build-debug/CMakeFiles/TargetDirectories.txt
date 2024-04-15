@@ -1,0 +1,5 @@
+/home/igor/CLionProjects/MusicalInstrumentService/cmake-build-debug/CMakeFiles/untitled3.dir
+/home/igor/CLionProjects/MusicalInstrumentService/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/igor/CLionProjects/MusicalInstrumentService/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/igor/CLionProjects/MusicalInstrumentService/cmake-build-debug/CMakeFiles/untitled3_autogen_timestamp_deps.dir
+/home/igor/CLionProjects/MusicalInstrumentService/cmake-build-debug/CMakeFiles/untitled3_autogen.dir
